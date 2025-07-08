@@ -1,0 +1,253 @@
+[
+    {
+      "question": "Atomic radius generally increases:",
+      "options": ["Left to right", "Top to bottom", "Right to left", "Both b and c"],
+      "answer": "Both b and c"
+    },
+    {
+      "question": "Which of the following elements has the largest atomic radius?",
+      "options": ["Na", "K", "Rb", "Cs"],
+      "answer": "Cs"
+    },
+    {
+      "question": "Across a period, atomic radius:",
+      "options": ["Increases", "Decreases", "Remains constant", "First increases then decreases"],
+      "answer": "Decreases"
+    },
+    {
+      "question": "Down a group, metallic character:",
+      "options": ["Increases", "Decreases", "Remains same", "First increases then decreases"],
+      "answer": "Increases"
+    },
+    {
+      "question": "Which of the following elements is most metallic?",
+      "options": ["Al", "Na", "K", "Mg"],
+      "answer": "K"
+    },
+    {
+      "question": "Non-metallic character increases:",
+      "options": ["Down a group", "Across a period", "From right to left", "Both a and b"],
+      "answer": "Across a period"
+    },
+    {
+      "question": "Which element is least metallic?",
+      "options": ["Na", "Cl", "Mg", "K"],
+      "answer": "Cl"
+    },
+    {
+      "question": "Which of these has smallest atomic radius?",
+      "options": ["F", "O", "N", "C"],
+      "answer": "F"
+    },
+    {
+      "question": "What happens to ionisation energy down a group?",
+      "options": ["Increases", "Decreases", "First increases then decreases", "No change"],
+      "answer": "Decreases"
+    },
+    {
+      "question": "What happens to ionisation energy across a period?",
+      "options": ["Increases", "Decreases", "Constant", "None"],
+      "answer": "Increases"
+    },
+    {
+      "question": "Which has the highest ionisation energy?",
+      "options": ["Na", "Mg", "Al", "Ne"],
+      "answer": "Ne"
+    },
+    {
+      "question": "Electron affinity becomes more negative:",
+      "options": ["Left to right in a period", "Top to bottom in a group", "Right to left in a period", "None"],
+      "answer": "Left to right in a period"
+    },
+    {
+      "question": "Which of the following has highest electron affinity?",
+      "options": ["Cl", "F", "Br", "I"],
+      "answer": "Cl"
+    },
+    {
+      "question": "Which element has highest electronegativity?",
+      "options": ["O", "Cl", "F", "N"],
+      "answer": "F"
+    },
+    {
+      "question": "Down a group, electronegativity:",
+      "options": ["Increases", "Decreases", "Constant", "First increases then decreases"],
+      "answer": "Decreases"
+    },
+    {
+      "question": "Which is least electronegative?",
+      "options": ["Li", "Na", "Cs", "K"],
+      "answer": "Cs"
+    },
+    {
+      "question": "Why does atomic radius decrease across a period?",
+      "options": ["Increase in electrons", "Increase in nuclear charge", "Increase in energy level", "Shielding effect increases"],
+      "answer": "Increase in nuclear charge"
+    },
+    {
+      "question": "Why does atomic size increase down a group?",
+      "options": ["Decrease in nuclear charge", "Increase in energy shells", "Increase in electronegativity", "Decrease in ionisation energy"],
+      "answer": "Increase in energy shells"
+    },
+    {
+      "question": "Which of the following elements is a metalloid?",
+      "options": ["B", "N", "Na", "Cl"],
+      "answer": "B"
+    },
+    {
+      "question": "Which element shows highest non-metallic character?",
+      "options": ["F", "O", "Cl", "N"],
+      "answer": "F"
+    },
+    {
+      "question": "The atomic radius of a cation is:",
+      "options": ["Larger than its atom", "Smaller than its atom", "Same as atom", "Unpredictable"],
+      "answer": "Smaller than its atom"
+    },
+    {
+      "question": "The atomic radius of an anion is:",
+      "options": ["Smaller than atom", "Equal to atom", "Larger than atom", "Depends on charge"],
+      "answer": "Larger than atom"
+    },
+    {
+      "question": "Which group has noble gases?",
+      "options": ["1", "14", "17", "18"],
+      "answer": "18"
+    },
+    {
+      "question": "Noble gases have zero electron affinity because:",
+      "options": ["They are non-metals", "They are metallic", "They have stable configuration", "They have low atomic mass"],
+      "answer": "They have stable configuration"
+    },
+    {
+      "question": "Why is fluorine less electron-affinitive than chlorine?",
+      "options": ["Higher nuclear charge", "Smaller size", "Shielding effect", "More protons"],
+      "answer": "Smaller size"
+    },
+    {
+      "question": "In d-block, atomic radius:",
+      "options": ["Increases", "Decreases slowly", "Constant", "Decreases rapidly"],
+      "answer": "Decreases slowly"
+    },
+    {
+      "question": "Which has lowest ionisation energy in Group 1?",
+      "options": ["Li", "Na", "K", "Cs"],
+      "answer": "Cs"
+    },
+    {
+      "question": "In a period, metallic character:",
+      "options": ["Increases", "Decreases", "Constant", "Depends on group"],
+      "answer": "Decreases"
+    },
+    {
+      "question": "Which is more non-metallic?",
+      "options": ["N", "P", "As", "Bi"],
+      "answer": "N"
+    },
+    {
+      "question": "What is ionisation energy?",
+      "options": ["Energy released when electron is added", "Energy required to remove an electron", "Energy lost during bonding", "Energy required to excite an atom"],
+      "answer": "Energy required to remove an electron"
+    },
+    {
+      "question": "Which has the highest atomic radius in Period 3?",
+      "options": ["Na", "Mg", "Al", "Si"],
+      "answer": "Na"
+    },
+    {
+      "question": "Across a period, electronegativity:",
+      "options": ["Decreases", "Increases", "Constant", "First increases then decreases"],
+      "answer": "Increases"
+    },
+    {
+      "question": "Which of the following is most non-metallic?",
+      "options": ["Na", "S", "P", "Cl"],
+      "answer": "Cl"
+    },
+    {
+      "question": "Which is more metallic?",
+      "options": ["Li", "K", "Na", "Rb"],
+      "answer": "Rb"
+    },
+    {
+      "question": "Ionisation energy is measured in:",
+      "options": ["Joules", "Kelvin", "Newton", "Tesla"],
+      "answer": "Joules"
+    },
+    {
+      "question": "Which has maximum electronegativity?",
+      "options": ["N", "O", "F", "Cl"],
+      "answer": "F"
+    },
+    {
+      "question": "Which group has highest metallic character?",
+      "options": ["Group 1", "Group 2", "Group 14", "Group 18"],
+      "answer": "Group 1"
+    },
+    {
+      "question": "Across the period, shielding effect:",
+      "options": ["Increases", "Constant", "Decreases", "Unpredictable"],
+      "answer": "Constant"
+    },
+    {
+      "question": "Shielding effect is maximum in:",
+      "options": ["S-block", "P-block", "D-block", "F-block"],
+      "answer": "F-block"
+    },
+    {
+      "question": "Which of the following is correct order of increasing atomic size?",
+      "options": ["Li < Na < K", "Na < K < Li", "K < Na < Li", "Li < K < Na"],
+      "answer": "Li < Na < K"
+    },
+    {
+      "question": "The energy required to remove an electron from isolated gaseous atom is:",
+      "options": ["Electron affinity", "Ionisation energy", "Nuclear energy", "Lattice energy"],
+      "answer": "Ionisation energy"
+    },
+    {
+      "question": "The tendency to accept electron is known as:",
+      "options": ["Ionisation energy", "Electron affinity", "Electronegativity", "None"],
+      "answer": "Electron affinity"
+    },
+    {
+      "question": "Which group elements are most electronegative?",
+      "options": ["Group 1", "Group 17", "Group 2", "Group 13"],
+      "answer": "Group 17"
+    },
+    {
+      "question": "What is the trend of metallic character across a period?",
+      "options": ["Increases", "Decreases", "Constant", "Unpredictable"],
+      "answer": "Decreases"
+    },
+    {
+      "question": "Which of the following is correct?",
+      "options": ["F is more metallic than Br", "Cl is more metallic than Na", "Na is more metallic than Cl", "Ne is more metallic than Na"],
+      "answer": "Na is more metallic than Cl"
+    },
+    {
+      "question": "Why does metallic character increase down a group?",
+      "options": ["Size decreases", "Ionisation energy increases", "Outer electrons are easily lost", "None"],
+      "answer": "Outer electrons are easily lost"
+    },
+    {
+      "question": "In the same group, elements have same:",
+      "options": ["Number of shells", "Number of valence electrons", "Number of protons", "Atomic number"],
+      "answer": "Number of valence electrons"
+    },
+    {
+      "question": "Across a period, number of shells:",
+      "options": ["Increases", "Decreases", "Remains same", "Doubles"],
+      "answer": "Remains same"
+    },
+    {
+      "question": "Which of the following is not a periodic trend?",
+      "options": ["Atomic radius", "Electronegativity", "Nuclear mass", "Ionisation energy"],
+      "answer": "Nuclear mass"
+    },
+    {
+      "question": "Which of the following has the smallest size?",
+      "options": ["Mg", "Mg⁺", "Mg²⁺", "Mg⁻"],
+      "answer": "Mg²⁺"
+    }
+  ]
+  
