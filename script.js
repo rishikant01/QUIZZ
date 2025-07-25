@@ -2,7 +2,7 @@ let questions = [];
 let current = 0;
 let score = 0;
 let timer;
-let timeLeft = 10;
+let timeLeft = 15; // Changed from 10 to 15
 
 // Load questions.json automatically
 window.onload = async () => {
@@ -55,7 +55,7 @@ function nextQuestion() {
 }
 
 function startTimer() {
-  timeLeft = 10;
+  timeLeft = 15; // Changed from 10 to 15
   document.getElementById('timer').innerText = `⏱️ ${timeLeft}`;
   timer = setInterval(() => {
     timeLeft--;
