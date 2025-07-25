@@ -1,245 +1,5 @@
 [
   {
-    "question": "Which of the following is the best conductor of electricity? | निम्नलिखित में से कौन विद्युत का सर्वोत्तम चालक है?",
-    "options": [
-      "Copper | तांबा",
-      "Aluminium | एल्युमिनियम",
-      "Silver | चाँदी",
-      "Iron | लोहा"
-    ],
-    "answer": "Silver | चाँदी"
-  },
-  {
-    "question": "Metals are generally: | धातुएँ सामान्यतः कैसी होती हैं?",
-    "options": [
-      "Brittle | भंगुर",
-      "Sonorous | ध्वनिवाही",
-      "Poor conductors of heat | ऊष्मा के खराब चालक",
-      "Dull | बेरंग"
-    ],
-    "answer": "Sonorous | ध्वनिवाही"
-  },
-  {
-    "question": "Which metal is in liquid form at room temperature? | कमरे के तापमान पर कौन सी धातु द्रव रूप में होती है?",
-    "options": [
-      "Lead | सीसा",
-      "Gallium | गैलियम",
-      "Mercury | पारद",
-      "Zinc | जिंक"
-    ],
-    "answer": "Mercury | पारद"
-  },
-  {
-    "question": "Which property of metals makes them suitable for making cooking utensils? | धातुओं की कौन सी विशेषता उन्हें बर्तन बनाने के लिए उपयुक्त बनाती है?",
-    "options": [
-      "Dullness | बेरंगता",
-      "High melting point | उच्च गलनांक",
-      "High thermal conductivity | उच्च ऊष्मीय चालकता",
-      "Sonority | ध्वनिवाहकता"
-    ],
-    "answer": "High thermal conductivity | उच्च ऊष्मीय चालकता"
-  },
-  {
-    "question": "Which of the following metals is soft and can be cut with a knife? | निम्नलिखित में से कौन सी धातु नरम होती है और चाकू से काटी जा सकती है?",
-    "options": [
-      "Copper | तांबा",
-      "Sodium | सोडियम",
-      "Iron | लोहा",
-      "Zinc | जिंक"
-    ],
-    "answer": "Sodium | सोडियम"
-  },
-  {
-    "question": "What causes the metallic lustre of metals? | धातुओं की चमक का कारण क्या है?",
-    "options": [
-      "Reflection of light by free electrons | मुक्त इलेक्ट्रॉनों द्वारा प्रकाश का परावर्तन",
-      "Transmission of light | प्रकाश का संचरण",
-      "Smooth surface | चिकनी सतह",
-      "Oxidation | ऑक्सीकरण"
-    ],
-    "answer": "Reflection of light by free electrons | मुक्त इलेक्ट्रॉनों द्वारा प्रकाश का परावर्तन"
-  },
-  {
-    "question": "Malleability is the property by which metals can be: | तन्यता वह गुण है जिससे धातुओं को किस रूप में बदला जा सकता है?",
-    "options": [
-      "Drawn into wires | तारों में बदला जा सकता है",
-      "Made into sheets | चादरों में बदला जा सकता है",
-      "Conduct electricity | विद्युत प्रवाहित कर सकते हैं",
-      "Mix with non-metals | अधातुओं के साथ मिल सकते हैं"
-    ],
-    "answer": "Made into sheets | चादरों में बदला जा सकता है"
-  },
-  {
-    "question": "Which metal is used in thermometers due to its uniform expansion? | तापमापी में किस धातु का प्रयोग उसकी समान प्रसार क्षमता के कारण किया जाता है?",
-    "options": [
-      "Silver | चाँदी",
-      "Lead | सीसा",
-      "Mercury | पारद",
-      "Zinc | जिंक"
-    ],
-    "answer": "Mercury | पारद"
-  },
-  {
-    "question": "What is released when a metal reacts with dilute hydrochloric acid? | जब धातु को पतले हाइड्रोक्लोरिक अम्ल से अभिक्रिया करवाई जाती है तो क्या निकलता है?",
-    "options": [
-      "Oxygen | ऑक्सीजन",
-      "Hydrogen | हाइड्रोजन",
-      "Nitrogen | नाइट्रोजन",
-      "Water | जल"
-    ],
-    "answer": "Hydrogen | हाइड्रोजन"
-  },
-  {
-    "question": "Which of the following metals does NOT react with dilute hydrochloric acid? | निम्नलिखित में से कौन सी धातु पतले HCl से अभिक्रिया नहीं करती है?",
-    "options": [
-      "Zinc | जिंक",
-      "Magnesium | मैग्नीशियम",
-      "Copper | तांबा",
-      "Iron | लोहा"
-    ],
-    "answer": "Copper | तांबा"
-  },
-  {
-    "question": "The general equation for metal + acid reaction is: | धातु + अम्ल की सामान्य अभिक्रिया है:",
-    "options": [
-      "Metal + Acid → Metal oxide + Water | धातु + अम्ल → धातु ऑक्साइड + जल",
-      "Metal + Acid → Salt + Hydrogen | धातु + अम्ल → लवण + हाइड्रोजन",
-      "Metal + Base → Salt + Hydrogen | धातु + क्षार → लवण + हाइड्रोजन",
-      "Metal + Water → Salt + Hydrogen | धातु + जल → लवण + हाइड्रोजन"
-    ],
-    "answer": "Metal + Acid → Salt + Hydrogen | धातु + अम्ल → लवण + हाइड्रोजन"
-  },
-  {
-    "question": "Which metal reacts explosively with acids? | कौन सी धातु अम्लों के साथ विस्फोटक रूप से अभिक्रिया करती है?",
-    "options": [
-      "Calcium | कैल्शियम",
-      "Sodium | सोडियम",
-      "Potassium | पोटेशियम",
-      "Aluminium | एल्युमिनियम"
-    ],
-    "answer": "Potassium | पोटेशियम"
-  },
-  {
-    "question": "Most metal oxides are: | अधिकांश धातु ऑक्साइड होते हैं:",
-    "options": [
-      "Acidic | अम्लीय",
-      "Basic | क्षारीय",
-      "Neutral | उदासीन",
-      "Amphoteric | उभयधर्मी"
-    ],
-    "answer": "Basic | क्षारीय"
-  },
-  {
-    "question": "Which of the following metal oxides is amphoteric? | निम्न में से कौन सा धातु ऑक्साइड उभयधर्मी है?",
-    "options": [
-      "Na₂O | सोडियम ऑक्साइड",
-      "Al₂O₃ | एल्युमिनियम ऑक्साइड",
-      "CaO | कैल्शियम ऑक्साइड",
-      "Fe₂O₃ | फेरिक ऑक्साइड"
-    ],
-    "answer": "Al₂O₃ | एल्युमिनियम ऑक्साइड"
-  },
-  {
-    "question": "What is the nature of magnesium oxide? | मैग्नीशियम ऑक्साइड का स्वभाव क्या है?",
-    "options": [
-      "Neutral | उदासीन",
-      "Acidic | अम्लीय",
-      "Basic | क्षारीय",
-      "Amphoteric | उभयधर्मी"
-    ],
-    "answer": "Basic | क्षारीय"
-  },
-  {
-    "question": "Which metal oxide dissolves in water to form an alkali? | कौन सा धातु ऑक्साइड पानी में घुलकर क्षार बनाता है?",
-    "options": [
-      "Fe₂O₃ | फेरिक ऑक्साइड",
-      "MgO | मैग्नीशियम ऑक्साइड",
-      "Na₂O | सोडियम ऑक्साइड",
-      "CuO | कॉपर ऑक्साइड"
-    ],
-    "answer": "Na₂O | सोडियम ऑक्साइड"
-  },
-  {
-    "question": "Which of the following metals is extracted by electrolytic reduction? | निम्नलिखित में से कौन सी धातु को विद्युत अपचयन द्वारा निकाला जाता है?",
-    "options": [
-      "Zinc | जिंक",
-      "Copper | तांबा",
-      "Aluminium | एल्युमिनियम",
-      "Silver | चाँदी"
-    ],
-    "answer": "Aluminium | एल्युमिनियम"
-  },
-  {
-    "question": "Which of the following processes is used to extract metals from their ores by heating in absence of air? | बिना वायु के गर्म करने की प्रक्रिया जिससे धातु निकाली जाती है?",
-    "options": [
-      "Roasting | भंजन",
-      "Electrolysis | विद्युत अपघटन",
-      "Calcination | दापान",
-      "Distillation | आसवन"
-    ],
-    "answer": "Calcination | दापान"
-  },
-  {
-    "question": "Which of the following metals is found in a native state? | निम्नलिखित में से कौन सी धातु प्राकृतिक रूप में मिलती है?",
-    "options": [
-      "Sodium | सोडियम",
-      "Potassium | पोटेशियम",
-      "Gold | सोना",
-      "Calcium | कैल्शियम"
-    ],
-    "answer": "Gold | सोना"
-  },
-  {
-    "question": "Which of the following is used as a reducing agent in metal extraction? | धातु निष्कर्षण में कौन अपचायक के रूप में प्रयोग होता है?",
-    "options": [
-      "CO | कार्बन मोनोऑक्साइड",
-      "H₂O | जल",
-      "O₂ | ऑक्सीजन",
-      "NaCl | सोडियम क्लोराइड"
-    ],
-    "answer": "CO | कार्बन मोनोऑक्साइड"
-  },
-  {
-    "question": "Bauxite is the ore of: | बॉक्साइट किस धातु की धातु अयस्क है?",
-    "options": [
-      "Iron | लोहा",
-      "Copper | तांबा",
-      "Aluminium | एल्युमिनियम",
-      "Zinc | जिंक"
-    ],
-    "answer": "Aluminium | एल्युमिनियम"
-  },
-  {
-    "question": "The ore of zinc is: | जिंक का अयस्क कौन सा है?",
-    "options": [
-      "Bauxite | बॉक्साइट",
-      "Zinc blende | जिंक ब्लेंड",
-      "Malachite | मैलाकाइट",
-      "Cinnabar | सिन्नाबार"
-    ],
-    "answer": "Zinc blende | जिंक ब्लेंड"
-  },
-  {
-    "question": "Galvanization is: | गैल्वनाइज़ेशन क्या है?",
-    "options": [
-      "Coating of iron with aluminum | लोहे पर एल्युमिनियम की परत चढ़ाना",
-      "Coating of iron with zinc | लोहे पर जिंक की परत चढ़ाना",
-      "Dipping iron in salt water | लोहे को नमक वाले पानी में डुबाना",
-      "Covering iron with paint | लोहे को पेंट से ढकना"
-    ],
-    "answer": "Coating of iron with zinc | लोहे पर जिंक की परत चढ़ाना"
-  },
-  {
-    "question": "Which of the following prevents corrosion of iron? | निम्न में से क्या लोहे के जंग लगने को रोकता है?",
-    "options": [
-      "Heating | गर्म करना",
-      "Keeping in moisture | नमी में रखना",
-      "Applying oil | तेल लगाना",
-      "Galvanization | गैल्वनाइज़ेशन"
-    ],
-    "answer": "Galvanization | गैल्वनाइज़ेशन"
-  },
-  {
     "question": "Rust is chemically: | रस्ट (जंग) का रासायनिक सूत्र है:",
     "options": [
       "Fe₂O₃·xH₂O | फेरिक ऑक्साइड युक्त जल",
@@ -248,5 +8,298 @@
       "Fe(OH)₂ | फेरस हाइड्रॉक्साइड"
     ],
     "answer": "Fe₂O₃·xH₂O | फेरिक ऑक्साइड युक्त जल"
+  },
+  {
+    "question": "Which of the following is a combination reaction? | निम्नलिखित में से कौन संयोजन अभिक्रिया है?",
+    "options": [
+      "CaO + H₂O → Ca(OH)₂",
+      "2AgNO₃ + Cu → Cu(NO₃)₂ + 2Ag",
+      "2H₂O₂ → 2H₂O + O₂",
+      "Zn + HCl → ZnCl₂ + H₂"
+    ],
+    "answer": "CaO + H₂O → Ca(OH)₂"
+  },
+  {
+    "question": "Which gas is released during reaction of metal with acid? | धातु के अम्ल से अभिक्रिया करने पर कौन सी गैस निकलती है?",
+    "options": [
+      "Hydrogen | हाइड्रोजन",
+      "Oxygen | ऑक्सीजन",
+      "Carbon dioxide | कार्बन डाइऑक्साइड",
+      "Nitrogen | नाइट्रोजन"
+    ],
+    "answer": "Hydrogen | हाइड्रोजन"
+  },
+  {
+    "question": "What type of reaction is: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂? | यह किस प्रकार की अभिक्रिया है: 2Pb(NO₃)₂ → 2PbO + 4NO₂ + O₂?",
+    "options": [
+      "Decomposition | विघटन",
+      "Combination | संयोजन",
+      "Displacement | विस्थापन",
+      "Double Displacement | द्विविस्थापन"
+    ],
+    "answer": "Decomposition | विघटन"
+  },
+  {
+    "question": "Which of the following metals is most reactive? | निम्नलिखित में से कौन-सी धातु सबसे अधिक क्रियाशील है?",
+    "options": [
+      "Sodium | सोडियम",
+      "Iron | लोहा",
+      "Copper | तांबा",
+      "Gold | सोना"
+    ],
+    "answer": "Sodium | सोडियम"
+  },
+  {
+    "question": "Which reaction shows thermal decomposition? | कौन सी अभिक्रिया ऊष्मीय विघटन को दर्शाती है?",
+    "options": [
+      "CaCO₃ → CaO + CO₂",
+      "2KBr + Cl₂ → 2KCl + Br₂",
+      "2H₂ + O₂ → 2H₂O",
+      "Zn + CuSO₄ → ZnSO₄ + Cu"
+    ],
+    "answer": "CaCO₃ → CaO + CO₂"
+  },
+  {
+    "question": "Which of these is not a property of acids? | इनमें से कौन अम्ल की विशेषता नहीं है?",
+    "options": [
+      "Sour taste | खट्टा स्वाद",
+      "Turns blue litmus red | नीले लिटमस को लाल करता है",
+      "Releases OH⁻ ions in water | जल में OH⁻ आयन छोड़ता है",
+      "Corrosive in nature | संक्षारक स्वभाव का"
+    ],
+    "answer": "Releases OH⁻ ions in water | जल में OH⁻ आयन छोड़ता है"
+  },
+  {
+    "question": "Which method is used to extract metals at the top of the reactivity series? | अभिक्रियाशीलता श्रेणी की शीर्ष धातुओं को निकालने के लिए कौन-सी विधि प्रयोग की जाती है?",
+    "options": [
+      "Electrolysis | विद्युत अपघटन",
+      "Reduction with carbon | कार्बन द्वारा अपचयन",
+      "Roasting | भंजन",
+      "Hydraulic washing | जल-धुलाई"
+    ],
+    "answer": "Electrolysis | विद्युत अपघटन"
+  },
+  {
+    "question": "What is formed when zinc reacts with copper sulphate? | जब जिंक कॉपर सल्फेट से अभिक्रिया करता है, तो क्या बनता है?",
+    "options": [
+      "Zinc sulphate and copper | जिंक सल्फेट और तांबा",
+      "Copper sulphide and zinc | कॉपर सल्फाइड और जिंक",
+      "Zinc oxide and copper | जिंक ऑक्साइड और तांबा",
+      "No reaction | कोई अभिक्रिया नहीं"
+    ],
+    "answer": "Zinc sulphate and copper | जिंक सल्फेट और तांबा"
+  },
+  {
+    "question": "Which one is a basic salt? | इनमें से कौन एक क्षारीय लवण है?",
+    "options": [
+      "Na₂CO₃ | सोडियम कार्बोनेट",
+      "NaCl | सोडियम क्लोराइड",
+      "CH₃COONa | सोडियम एसीटेट",
+      "NH₄Cl | अमोनियम क्लोराइड"
+    ],
+    "answer": "Na₂CO₃ | सोडियम कार्बोनेट"
+  }
+],
+[
+  {
+    "question": "Which acid is present in lemon? | नींबू में कौन सा अम्ल पाया जाता है?",
+    "options": [
+      "Citric acid | साइट्रिक अम्ल",
+      "Acetic acid | एसीटिक अम्ल",
+      "Tartaric acid | टार्टरिक अम्ल",
+      "Lactic acid | लैक्टिक अम्ल"
+    ],
+    "answer": "Citric acid | साइट्रिक अम्ल"
+  },
+  {
+    "question": "Which gas turns lime water milky? | कौन सी गैस चूने के पानी को दूधिया बनाती है?",
+    "options": [
+      "CO₂ | कार्बन डाइऑक्साइड",
+      "O₂ | ऑक्सीजन",
+      "H₂ | हाइड्रोजन",
+      "N₂ | नाइट्रोजन"
+    ],
+    "answer": "CO₂ | कार्बन डाइऑक्साइड"
+  },
+  {
+    "question": "Which is used for galvanization? | गैल्वनाइजेशन में कौन सी धातु प्रयोग होती है?",
+    "options": [
+      "Zinc | जिंक",
+      "Copper | तांबा",
+      "Silver | चांदी",
+      "Iron | लोहा"
+    ],
+    "answer": "Zinc | जिंक"
+  },
+  {
+    "question": "Which of the following is a displacement reaction? | निम्नलिखित में से कौन विस्थापन अभिक्रिया है?",
+    "options": [
+      "Zn + CuSO₄ → ZnSO₄ + Cu",
+      "HCl + NaOH → NaCl + H₂O",
+      "CaO + H₂O → Ca(OH)₂",
+      "2H₂ + O₂ → 2H₂O"
+    ],
+    "answer": "Zn + CuSO₄ → ZnSO₄ + Cu"
+  },
+  {
+    "question": "Which of the following reacts with cold water? | निम्न में से कौन ठंडे पानी से अभिक्रिया करता है?",
+    "options": [
+      "Sodium | सोडियम",
+      "Zinc | जिंक",
+      "Iron | लोहा",
+      "Copper | तांबा"
+    ],
+    "answer": "Sodium | सोडियम"
+  },
+  {
+    "question": "Which base is used in manufacture of soap? | साबुन बनाने में कौन सा क्षार प्रयोग होता है?",
+    "options": [
+      "NaOH | सोडियम हाइड्रॉक्साइड",
+      "NH₄OH | अमोनियम हाइड्रॉक्साइड",
+      "Ca(OH)₂ | कैल्शियम हाइड्रॉक्साइड",
+      "KOH | पोटैशियम हाइड्रॉक्साइड"
+    ],
+    "answer": "NaOH | सोडियम हाइड्रॉक्साइड"
+  },
+  {
+    "question": "The reaction of acid with base to form salt and water is called: | अम्ल और क्षार की अभिक्रिया जिससे लवण और जल बनते हैं, कहलाती है:",
+    "options": [
+      "Neutralization | उदासीनीकरण",
+      "Combination | संयोजन",
+      "Displacement | विस्थापन",
+      "Redox | रिडॉक्स"
+    ],
+    "answer": "Neutralization | उदासीनीकरण"
+  },
+  {
+    "question": "Which of these is amphoteric? | इनमें से कौन उभयधर्मी है?",
+    "options": [
+      "Aluminium | एल्युमिनियम",
+      "Zinc | जिंक",
+      "Both A and B | दोनों A और B",
+      "Iron | लोहा"
+    ],
+    "answer": "Both A and B | दोनों A और B"
+  },
+  {
+    "question": "Which metal is stored in kerosene? | किस धातु को मिट्टी के तेल में रखा जाता है?",
+    "options": [
+      "Sodium | सोडियम",
+      "Iron | लोहा",
+      "Aluminium | एल्युमिनियम",
+      "Copper | तांबा"
+    ],
+    "answer": "Sodium | सोडियम"
+  },
+  {
+    "question": "The brown gas evolved during thermal decomposition of lead nitrate is: | लेड नाइट्रेट के ऊष्मीय विघटन पर निकलने वाली भूरी गैस है:",
+    "options": [
+      "NO₂ | नाइट्रोजन डाइऑक्साइड",
+      "N₂ | नाइट्रोजन",
+      "O₂ | ऑक्सीजन",
+      "NH₃ | अमोनिया"
+    ],
+    "answer": "NO₂ | नाइट्रोजन डाइऑक्साइड"
+  },
+  {
+    "question": "Which of the following is used in making baking powder? | बेकिंग पाउडर बनाने में किसका प्रयोग होता है?",
+    "options": [
+      "NaHCO₃ | सोडियम बाइकार्बोनेट",
+      "NaCl | नमक",
+      "NaOH | सोडियम हाइड्रॉक्साइड",
+      "KCl | पोटैशियम क्लोराइड"
+    ],
+    "answer": "NaHCO₃ | सोडियम बाइकार्बोनेट"
+  },
+  {
+    "question": "What is the process of heating ore in presence of air? | अयस्क को वायु की उपस्थिति में गर्म करने की प्रक्रिया को क्या कहते हैं?",
+    "options": [
+      "Roasting | भंजन",
+      "Calcination | कैल्सीनेशन",
+      "Reduction | अपचयन",
+      "Smelting | गलन"
+    ],
+    "answer": "Roasting | भंजन"
+  },
+  {
+    "question": "Which of the following is an acidic salt? | निम्न में से कौन अम्लीय लवण है?",
+    "options": [
+      "NaHSO₄ | सोडियम हाइड्रोजन सल्फेट",
+      "NaCl | सोडियम क्लोराइड",
+      "Na₂SO₄ | सोडियम सल्फेट",
+      "NaNO₃ | सोडियम नाइट्रेट"
+    ],
+    "answer": "NaHSO₄ | सोडियम हाइड्रोजन सल्फेट"
+  },
+  {
+    "question": "What is the pH of neutral solution? | उदासीन विलयन का pH मान क्या होता है?",
+    "options": [
+      "7",
+      "0",
+      "14",
+      "10"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Bleaching powder is chemically: | ब्लीचिंग पाउडर का रासायनिक नाम है:",
+    "options": [
+      "CaOCl₂ | कैल्शियम ऑक्सीक्लोराइड",
+      "CaCl₂ | कैल्शियम क्लोराइड",
+      "CaCO₃ | कैल्शियम कार्बोनेट",
+      "Ca(OH)₂ | कैल्शियम हाइड्रॉक्साइड"
+    ],
+    "answer": "CaOCl₂ | कैल्शियम ऑक्सीक्लोराइड"
+  },
+  {
+    "question": "What is formed when sulphur dioxide dissolves in water? | जब सल्फर डाइऑक्साइड जल में घुलती है, तो क्या बनता है?",
+    "options": [
+      "Sulphurous acid | सल्फ्यूरस अम्ल",
+      "Sulphuric acid | सल्फ्यूरिक अम्ल",
+      "Hydrochloric acid | हाइड्रोक्लोरिक अम्ल",
+      "Carbonic acid | कार्बोनिक अम्ल"
+    ],
+    "answer": "Sulphurous acid | सल्फ्यूरस अम्ल"
+  },
+  {
+    "question": "Which reaction releases heat? | कौन सी अभिक्रिया ऊष्मा मुक्त करती है?",
+    "options": [
+      "Exothermic | उष्माक्षेपी",
+      "Endothermic | उष्माशोषी",
+      "Neutralization | उदासीनीकरण",
+      "Redox | रिडॉक्स"
+    ],
+    "answer": "Exothermic | उष्माक्षेपी"
+  },
+  {
+    "question": "Which non-metal is lustrous? | कौन सा अधातु चमकीला होता है?",
+    "options": [
+      "Iodine | आयोडीन",
+      "Sulphur | सल्फर",
+      "Phosphorus | फॉस्फोरस",
+      "Carbon | कार्बन"
+    ],
+    "answer": "Iodine | आयोडीन"
+  },
+  {
+    "question": "Which gas is evolved when metals react with base? | धातुओं की क्षार से अभिक्रिया पर कौन सी गैस निकलती है?",
+    "options": [
+      "Hydrogen | हाइड्रोजन",
+      "Oxygen | ऑक्सीजन",
+      "Nitrogen | नाइट्रोजन",
+      "Chlorine | क्लोरीन"
+    ],
+    "answer": "Hydrogen | हाइड्रोजन"
+  },
+  {
+    "question": "What is aqua regia? | एक्वा रेजिया क्या है?",
+    "options": [
+      "3 parts HCl + 1 part HNO₃ | 3 भाग HCl + 1 भाग HNO₃",
+      "1 part HCl + 3 part HNO₃ | 1 भाग HCl + 3 भाग HNO₃",
+      "Equal HCl and HNO₃ | बराबर मात्रा HCl और HNO₃",
+      "Only HNO₃ | केवल HNO₃"
+    ],
+    "answer": "3 parts HCl + 1 part HNO₃ | 3 भाग HCl + 1 भाग HNO₃"
   }
 ]
+
